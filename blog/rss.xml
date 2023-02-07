@@ -11,7 +11,7 @@
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>http://weboftrust.github.io/WOT-terms/blog/welcome</link>
-            <guid>welcome</guid>
+            <guid>http://weboftrust.github.io/WOT-terms/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog post.]]></description>
             <content:encoded><![CDATA[<p>Blog post.</p>]]></content:encoded>
